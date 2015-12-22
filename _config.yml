@@ -11,7 +11,7 @@ email: ''
 description: > # this means to ignore newlines until "baseurl:"
   A blog and podcast covering the business and technology of artificial intelligence.
 copyright: © 2015-2016 Ray Grieselhuber
-baseurl: "/constructed-intellect" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.constructedintellect.com" # the base hostname & protocol for your site
 twitter_username: conintellect
 github_username:  rgrieselhuber
