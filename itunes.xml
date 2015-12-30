@@ -1,0 +1,48 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" >
+    <channel>
+        <title>Constructed Intellect</title>
+        <link>http://www.constructedintellect.com/</link>
+        <language>en-us</language>
+        <copyright>℗ &amp; © 2015-2015 Ray Grieselhuber</copyright>
+        <itunes:subtitle>A podcast covering the business and technology of artificial intelligence.</itunes:subtitle>
+        <itunes:author>Ray Grieselhuber</itunes:author>
+        <itunes:summary>A podcast covering the business and technology of artificial intelligence.</itunes:summary>
+        <description>A podcast covering the business and technology of artificial intelligence. Created and hosted by Ray Grieselhuber, entrepreneur and writer / speaker, with over 10 years of experience building SaaS and analytics platforms. Constructed Intellect provides coverage on the latest and most important trends in AI and machine learning.</description>
+        <itunes:owner>
+            <itunes:name>Ray Grieselhuber</itunes:name>
+            <itunes:email>hello@ginzametrics.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="http://www.constructedintellect.com/images/Constructed-Intellect.png"/>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Episode #1</title>
+            <itunes:author>Ray Grieselhuber</itunes:author>
+            <itunes:subtitle>Episode #1</itunes:subtitle>
+            <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/239636122-constructed-intellect-constructed-intellect-episode.m4a" length="27117284"/>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/239636122</guid>
+            <pubDate>Wed, 30 Dec 2015 02:41:47 +0000</pubDate>
+            <itunes:duration>00:18:39</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:keywords>podcast, artificial intelligence, machine learning</itunes:keywords>
+            <itunes:summary><![CDATA[
+            <p>Welcome to the Constructed Intellect podcast, a brand new show starting with this episode.</p>
+            <p>Show notes and full transcript available at <a href="http://www.constructedintellect.com">constructedintellect.com</a>.</p>
+            <p>Follow us on Twitter at <a href="http://www.twitter.com/conintellect">@conintellect</a> and Facebook at <a href="http://www.facebook.com/ConstructedIntellect">Facebook.com/ConstructedIntellect</a>.</p>
+            <ul>
+                <li>0:00 Intro</li>
+                <li>1:30 \m/</li>
+                <li>1:46 Self-introduction (Ray)</li>
+                <li>5:29 The Learn AI Guide</li>
+                <li>6:00 Explaining the format of the show</li>
+                <li>9:29 Why are we doing this show now?</li>
+                <li>14:48 Plans for interviews</li>
+                <li>14:48 Preview of next show</li>
+            </ul>
+            ]]></itunes:summary>
+        </item>
+    </channel>
+</rss>
