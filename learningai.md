@@ -8,7 +8,7 @@ h2 {border-bottom: 1px solid #c9c9c9;}
 h4 {text-decoration: underline;}
 </style>
 
-<em>A list of resources, links, and courses. Last updated 12/22/2015.</em>
+<em>A list of resources, links, and courses. Last updated 1/3/2016.</em>
 
 As we look at the resources available to learn about AI, it's helpful to divide them into two categories. 
 
@@ -137,7 +137,7 @@ Once you get familiar with Python, there are some great libraries that can help 
 
 [TensorFlow](https://www.tensorflow.org) - In November 2015, Google open-sourced one of their primary machine learning packages. It's a fantastic set of tools and the website provides excellent tutorials as well. Highly recommended.
 
-[Torch](http://torch.ch/) is another open-source machine learning library, released by Facebook's AI Research team (FAIR). 
+[Torch](http://torch.ch/) is another open-source machine learning library. 
 
 ### Books
 
@@ -155,7 +155,7 @@ Author: Peter Norvig
 
 Peter Norvig is also legendary in the Lisp world. I've heard many programmers, even non-Lisp programmers, say that this is the best programming book they've ever read.
 
-#### Data Science from Scrach
+#### Data Science from Scratch
 Author: Joel Grus
 
 [Link to Amazon](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X/ref=sr_1_2?ie=UTF8&qid=1450922745&sr=8-2&keywords=programming+collective+intelligence)
@@ -173,5 +173,7 @@ Here is another [good list of free AI programming books](http://bigdata-madesimp
 [DeepLearning](http://deeplearning.net/) - reading list, links to papers, software, datasets, conferences, and more.
 
 [Open Compute Project](Open Compute Project) - open sourced hardware and server specs, started by Facebook.
+
+NVIDIA has posted a great set of tutorials around the [core concepts of machine learning](http://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-core-concepts/)
 
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
