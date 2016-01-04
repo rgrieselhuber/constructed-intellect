@@ -17,11 +17,11 @@ In today's edition, we catch up on the news from over the holidays and include a
 
 <strong>An experiment</strong> in "dreaming up" [new Chinese characters using TensorFlow](http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/)
 
-<strong>Larry O'Brien shared some good thoughts</strong> on Neural Nets as (programming assistants)(http://sdtimes.com/code-watch-using-deep-neural-networks-as-programming-assistants/].
+<strong>Larry O'Brien shared some good thoughts</strong> on Neural Nets as [programming assistants](http://sdtimes.com/code-watch-using-deep-neural-networks-as-programming-assistants/).
 
 <strong>This Week in HPC podcast</strong> talking about [Deep Learning and big acquisitions in 2015](http://www.top500.org/blog/deep-learning-and-big-acquisitions-the-year-in-review-in-hpc/).
 
-<strong>The 19 most important things</strong> that happned in (robotics in 2015)[http://www.techinsider.io/ranked-2015-robot-advancements-2015-12].
+<strong>The 19 most important things</strong> that happened in [robotics in 2015](http://www.techinsider.io/ranked-2015-robot-advancements-2015-12).
 
 <strong>Google is planning</strong> a Whatsapp rival, [focusing on AI as a differentiator](http://stayontheblack.com/2016/01/google-plots-whatsapp-rival-with-artificial-intelligence/). We'll see. So far, Google has yet to impress with most of its social software projects.
 
