@@ -12,7 +12,7 @@ In today's edition, we catch up on the news from over the holidays and include a
 <strong>Future of Life has released a great summary</strong> of the [top AI breakthroughs in 2015](http://futureoflife.org/2015/12/29/the-top-a-i-breakthroughs-of-2015/). This article is nice in the way that it breaks the innovations down into five categories of intelligence: abstracting across environments, intuitive concept understanding, creative abstract thought, dreaming up visions, and dexterous fine motor skills.
 
 
-<strong<A nice collection of thoughts</strong> from various Deep Learning experts on [what to expect in 2016](https://re-work.co/blog/deep-learning-experts-discuss-the-next-5-years)
+<strong>A nice collection of thoughts</strong> from various Deep Learning experts on [what to expect in 2016](https://re-work.co/blog/deep-learning-experts-discuss-the-next-5-years)
 
 
 <strong>An experiment</strong> in "dreaming up" [new Chinese characters using TensorFlow](http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/)
@@ -27,6 +27,6 @@ In today's edition, we catch up on the news from over the holidays and include a
 
 <strong>On the other hand</strong>, Google does have a lot of success with big computing projects. Here is the latest news about [Google's new quantum computer](http://gadgets.ndtv.com/science/features/why-googles-new-quantum-computer-could-launch-an-artificial-intelligence-arms-race-782905?site=classic).
 
-<strong<A useful</strong> [evaluation of Deep Learning frameworks](https://github.com/zer0n/deepframeworks/).
+<strong>A useful</strong> [evaluation of Deep Learning frameworks](https://github.com/zer0n/deepframeworks/).
 
 <strong>Shivon Zilis</strong> has a useful breakdown and chart of the [current field of AI players](http://www.shivonzilis.com/machineintelligence).
