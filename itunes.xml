@@ -19,6 +19,38 @@ layout: null
         <itunes:image href="http://www.constructedintellect.com/images/Constructed-Intellect.png"/>
         <itunes:explicit>no</itunes:explicit>
         <item>
+          <guid isPermaLink="false">tag:soundcloud,2010:tracks/241685255</guid>
+          <title>Episode #2: 2015 in Review</title>
+          <pubDate>Wed, 13 Jan 2016 00:02:37 +0000</pubDate>
+          <link>https://soundcloud.com/constructed-intellect/constructed-intellect</link>
+          <itunes:duration>00:32:24</itunes:duration>
+          <itunes:author>Ray Grieselhuber</itunes:author>
+          <itunes:explicit>no</itunes:explicit>
+          <itunes:keywords>podcast, artificial intelligence, machine learning, 2015</itunes:keywords>
+          <itunes:subtitle>Constructed Intellect Episode #2: 2015 in Review …</itunes:subtitle>
+          <description>Constructed Intellect Episode #2: 2015 in Review by Ray Grieselhuber</description>
+          <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/241685255-constructed-intellect-constructed-intellect.m4a" length="64687000"/>
+          <itunes:image href="http://i1.sndcdn.com/avatars-000196242479-797rwc-original.jpg"/>
+          <itunes:summary><![CDATA[
+            <p>Welcome to the Constructed Intellect podcast. This is episode # 2.</p>
+            <p>Show notes and full transcript available at <a href="http://www.constructedintellect.com">constructedintellect.com</a>.</p>
+            <p>Follow us on Twitter at <a href="http://www.twitter.com/conintellect">@conintellect</a> and Facebook at <a href="http://www.facebook.com/ConstructedIntellect">Facebook.com/ConstructedIntellect</a>.</p>
+            <ul>
+                <li>0:00 Intro</li>
+                <li>1:57 News, announcements, and introducing show topics</li>
+                <li>4:26 The Normalization of AI</li>
+                <li>12:06 Investment, M&amp;A, and the markets</li>
+                <li>16:03 Self-driving cars</li>
+                <li>17:20 Advancements in deep learning / neural networks</li>
+                <li>18:50 Improvements in robotics</li>
+                <li>21:26 Cloud Platforms &amp; Open-source software</li>
+                <li>25:05 Hardware improvements</li>
+                <li>26:29 Development tools</li>
+                <li>31:30 Conclusion</li>
+            </ul>
+            ]]></itunes:summary>
+        </item>
+        <item>
             <title>Episode #1</title>
             <itunes:author>Ray Grieselhuber</itunes:author>
             <itunes:subtitle>Episode #1</itunes:subtitle>
